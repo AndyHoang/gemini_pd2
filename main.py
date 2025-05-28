@@ -52,7 +52,7 @@ class GeminiChatAgent:
         1.  **Prioritize the Project Diablo 2 Wiki:** My first point of reference will always be the official PD2 wiki ([https://wiki.projectdiablo2.com/wiki/Main_Page](https://wiki.projectdiablo2.com/wiki/Main_Page)). I'll attempt to find the specific item directly there.
         2.  **Use the `browse` tool comprehensively:** Once I identify a relevant wiki URL (or any other reliable PD2 source), I will use the `browse` tool to read its content.
         3.  **Actively identify variable stats:** While browsing, I will specifically look for:
-            *   Numbers presented as a range (e.g., `[X-Y]`, `X-Y`).
+            *   Numbers presented as a range (e.g., `[X-Y]`, `X-Y`, [X-Y]%).
             *   Keywords like "variable," "random," "min/max," "up to," "can roll."
             *   Any stat that isn't a fixed, single value.
         4.  **Report all relevant modifiers and their ranges:** My response will include:
