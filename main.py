@@ -25,7 +25,7 @@ class GeminiChatAgent:
         self.model_id = "gemini-2.5-flash-preview-05-20"
         
         # Only keeping wiki URL as reference
-        self.wiki = "https://pd2reawakening.com/wiki/index.php?title=Main_Page"
+        self.wiki = "https://wiki.projectdiablo2.com/wiki/Main_Page"
         
         # Initialize tools
         self.url_context_tool = Tool(
